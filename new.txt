@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+00:10:50	9001/9001	---M-Z	200	added ('OK')	text/plain	etag:%22410e2c3542265c70d3e404786b89acd3%22	https://hot-content-store-buy.edgeone.app/robots.txt		(from )
+00:10:50	36724/36724	---M-Z	200	added ('OK')	text/html	etag:%22410e2c3542265c70d3e404786b89acd3%22	https://hot-content-store-buy.edgeone.app/	C:/Os%20meus%20Sites/hot/hot-content-store-buy.edgeone.app/index.html	(from )
+00:10:52	102025/102025	---MCZ	200	added ('OK')	text/css	date:Mon,%2027%20Mar%202023%2017:46:59%20GMT	https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css	C:/Os%20meus%20Sites/hot/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css	(from https://hot-content-store-buy.edgeone.app/)
+00:10:54	62572/62572	---M--	200	added ('OK')	image/jpeg	etag:%226972bf6b-f46c%22	https://files.catbox.moe/qayvs1.jpeg	C:/Os%20meus%20Sites/hot/files.catbox.moe/qayvs1.jpg	(from https://hot-content-store-buy.edgeone.app/)
+00:10:56	61304/61304	---M--	200	added ('OK')	image/jpeg	etag:%2269cc3c40-ef78%22	https://files.catbox.moe/kzs4p6.jpg	C:/Os%20meus%20Sites/hot/files.catbox.moe/kzs4p6.jpg	(from https://hot-content-store-buy.edgeone.app/)
